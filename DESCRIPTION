@@ -1,7 +1,7 @@
 Package: fgga
 Type: Package
 Title: Hierarchical ensemble method based on factor graph
-Version: 1.3.0
+Version: 1.4.0
 Date: 2021-05-06
 Authors@R: c(person("Spetale", "Flavio", email = "spetale@cifasis-conicet.gov.ar", role = c("aut", "cre")),
 	     person("Elizabeth", "Tapia", role = c("aut", "ctb")))
